@@ -8,19 +8,19 @@ int main() {
 	string uname;
 	string biostack;
 	
-	cout<<"Enter First Name: ";
+	cout<<"osezele: ";
 	cin>>fname;
 	
-	cout<<"Enter Last Name: ";
+	cout<<"akhere: ";
 	cin>>lname;
 	
-	cout<<"Enter Email: ";
+	cout<<"osezele.akhere@gmail.com: ";
 	cin>>email;
 	
-	cout<<"Enter Username: ";
+	cout<<"@akhereose: ";
 	cin>>uname;
 	
-	cout<<"Enter Biostack: ";
+	cout<<"drug_discovery: ";
 	cin>>biostack;
 	
 	cout<<"first Name: "<<fname<<endl;
