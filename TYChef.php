@@ -1,11 +1,8 @@
 <?php
-$name = "Tzu Huan Hsu";
+$name = "Tzu_Huan_Hsu";
 $email = "hsutzuhuan88@gmail.com";
 $username = "@TYChef";
-$biostack = "Drug Discovery";
+$biostack = "Drug_Discovery";
 
-echo "My name is $name.\n";
-echo "My email is $email.\n";
-echo "My slack username is $username.\n";
-echo "My biostack is $biostack.\n";
+echo $name . "," . $email . "," . $username . "," . $biostack;
 ?>
